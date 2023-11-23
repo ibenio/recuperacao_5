@@ -1,0 +1,30 @@
+#inteiro {
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    height: 100vh;
+
+}
+
+#eae {
+    text-align: center;
+    border: 5px solid black;
+    background: black;
+    color: white;
+    padding: 28px;
+    font-size: 35px;
+}
+
+#imgens {
+    text-align: center;
+    margin-top: 105px;
+    margin-bottom: 56px;
+}
+
+
+#fundo {
+    text-align: center;
+    font-size: 26px;
+    border: 15px solid black;
+    background: black;
+    color: white;
+    padding: 86px;
+}
